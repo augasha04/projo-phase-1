@@ -1,11 +1,22 @@
+const drinkslist = document.querySelector('#drinks');
+
+// fetching drinks data
+
 fetch("http://localhost:3000/drinks")
-  .then(response => response.json())
-  .then(data => {
-    // use the fetched data here
-    console.log(data);
-  })
-  .catch(error => {
-    // handle any errors here
-    console.error(error);
-  });
+.then(function (response) {
+  return response.json();
+})
+.then(function (data) {
+  data.forEach(function (drink) {
+    const listItem = document.createElement('li');
+    listItem.classList.add('drinks', 'item');
+    listItem.textContent = drink.strDrink;
+    quenchList.appendChild(listItem);
+  })});
+
+  const characters = document.querySelector('drinksdetails');
+  
+
+
+
 
