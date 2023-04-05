@@ -46,6 +46,21 @@
     <input type="submit" value="Submit">
   </form>
 
+
+  <!-- JavaScript -->
+<script>
+    const orderDrinkBtn = document.getElementById('order-drink-btn');
+    const orderDrinkForm = document.getElementById('order-drink-form');
+  
+    orderDrinkBtn.addEventListener('click', () => {
+      if (orderDrinkForm.style.display === 'none') {
+        orderDrinkForm.style.display = 'block';
+      } else {
+        orderDrinkForm.style.display = 'none';
+      }
+    });
+  </script>
+
     <div class="coursel">
         <img src="https://www.tastingtable.com/img/gallery/15-liquors-your-home-bar-should-have/intro-1661193875.jpg" alt="" srcset="">
     </div>
