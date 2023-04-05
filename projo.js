@@ -15,7 +15,12 @@ fetch("http://localhost:3000/drinks")
   })});
 
   
-
+//adding an eventListeners for buying tickets
+const buyButton = card.querySelector('order-drink');
+buyButton.addEventListener('click', function(event) {
+  const availableDrinks = card.querySelector('available-drinks');
+  const numAvailableTickets = parseInt(availableDrinks.textContent);
+})
 
 
 
