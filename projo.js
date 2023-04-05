@@ -14,8 +14,8 @@ fetch("http://localhost:3000/drinks")
     quenchList.appendChild(listItem);
   })});
 
-  const characters = document.querySelector('drinksdetails');
   
+
 
 
 
