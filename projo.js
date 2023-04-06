@@ -11,7 +11,7 @@ const orderDrinkBtn = document.getElementById('order-drink-btn');
 
 
     // fetching data
-    fetch("")
+    fetch("http://localhost:3000/drinks")
   .then(response => response.json())
   .then(data => {
     // use the fetched data here
