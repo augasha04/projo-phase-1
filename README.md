@@ -1,17 +1,22 @@
 # projo-phase-1
+Project Name: Augasha Liquor Parlour WebApp
 
-Welcome to our liquor shop! Here is a quick overview of what we offer:
+Author: Augustine Mwangi Kariuki
 
-Wide variety of spirits: Our store carries a broad selection of spirits, including whiskey, vodka, gin, rum, tequila, brandy, and liqueurs. We carefully curate our inventory to ensure that we have something for every taste and budget.
+Description
+This is a webapp for a liquor shop that allows customers to browse and purchase a wide variety of liquors. The webapp is designed to be user-friendly and informative, providing customers with detailed product descriptions, reviews, and pricing information.
 
-Knowledgeable staff: Our team is passionate about spirits and knowledgeable about our products. We can help you find the perfect bottle for any occasion, whether you're looking for a gift, trying something new, or stocking up for a party.
+Project Setup Instructions
 
-Competitive prices: We strive to offer competitive prices on all of our products, so you can enjoy your favorite spirits without breaking the bank.
+Clone this repository to your local machine.
+Navigate to the root directory of the project.
+Install the necessary dependencies by running the command npm install.
+Start the development server by running the command npm start.
+Open your web browser and navigate to http://127.0.0.1:5500/index.html?# to view the webapp.
 
-Convenient location: Our store is conveniently located in the heart of the city, making it easy to stop by and pick up your favorite spirits on the way home from work or while running errands.
+Live Site on GitHub Pages
+You can view the live site for this project on GitHub Pages at the following URL:
 
-Online ordering: For added convenience, we offer online ordering through our website. Browse our inventory, place your order, and pick it up in-store or have it delivered right to your door.
 
-Special events: Throughout the year, we host special events, such as tastings and educational seminars, to help you learn more about spirits and discover new favorites.
-
-Thank you for choosing our liquor shop for all of your spirit needs. We look forward to serving you!
+Copyright and License Information
+This projec is licensed under the GNU GENERAL PUBLIC LICENSE.
