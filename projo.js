@@ -5,6 +5,6 @@ const orderDrinkBtn = document.getElementById('order-drink-btn');
       if (orderDrinkForm.style.display === 'none') {
         orderDrinkForm.style.display = 'block';
       } else {
-        orderDrinkForm.style.display = 'none';
+        orderDrinkForm.style.display = 'block';
       }
     });
