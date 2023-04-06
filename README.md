@@ -19,7 +19,7 @@ Start the server by running npm start
 Open a browser and navigate to http://127.0.0.1:5500/index.html?# to access the app
 
 Live Site
-Check out the live site hosted on GitHub Pages here 
+Check out the live site hosted on GitHub Pages here https://augasha04.github.io/projo-phase-1/
 
 Copyright and License
 This project is licensed under GNU GENERAL PUBLIC LICENSE © [AUGASHA]
