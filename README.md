@@ -1,8 +1,6 @@
 # projo-phase-1
 
-<<<<<<< HEAD
 
-=======
 Liquor Shop Web App
 
 Author: Augustine Mwangi Kariuki
@@ -26,4 +24,4 @@ Check out the live site hosted on GitHub Pages here https://augasha04.github.io/
 
 Copyright and License
 This project is licensed under GNU GENERAL PUBLIC LICENSE © [AUGASHA]
->>>>>>> origin
+
